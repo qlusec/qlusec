@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
-Hello! I'm a developer still sharpening and honing my skills and cybersecurity enthusiast. I love creating tools that makes a difference in the world of Cybersecurity. Here, you'll find some of my projects and contributions.
+Hello! I'm a developer still sharpening and honing my coding skills and I'm a cybersecurity enthusiast. I love creating tools that makes a difference in the world of Cybersecurity. Here, you'll find some of my projects and contributions.
 
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
