@@ -19,7 +19,7 @@ Hello! I'm a developer still sharpening and honing my coding skills and I'm a cy
 - Explore the project: [QLUChat](https://github.com/qlusec/qluchat)
 
 ### QLUBox 🧰
-![QLUBot](https://github.com/qlusec/qlubox)
+![QLUBox](https://github.com/qlusec/qlubox)
 - An OSINT toolbox command-line tool that allows those new to Cybersecurity to
 - Explore the project: [QLUBox](https://github.com/qlusec/qlubox)
 
