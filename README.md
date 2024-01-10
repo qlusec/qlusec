@@ -1,6 +1,7 @@
 # Welcome to My GitHub Profile 👋
 
 Hello! I'm a Security Engineer still sharpening my coding skills. I love creating tools that can make any sort of difference for people. Here, you'll find some of my projects and contributions.
+[Blog](https://qlusec.tech/blog)
 
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
