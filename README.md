@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile 👋
+# Welcome to My GitHub 👋
 
 Hello! I'm a Security Engineer still sharpening my coding skills. I love creating tools that can make any sort of difference for people. Here, you'll find some of my projects and contributions.
 [Blog](https://qlusec.tech/blog)
@@ -24,6 +24,5 @@ I'm also an open to contributing and collaborating with other developers. If you
 ## Contact Me 
 
 Discord: _qlu
-
 
 Thanks for stopping by, and feel free to improve upon any of these projects! 🚀
